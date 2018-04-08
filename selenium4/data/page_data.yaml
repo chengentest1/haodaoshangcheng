@@ -1,0 +1,8 @@
+login:
+    url: "http://localhost:8001/index.php?m=user&c=public&a=login"
+    denglu: "登录"
+    name: "username"
+    password: "password"
+    denglu_btm: "login_btn"
+    login_err: "/html/body/div[2]/div[1]/div[1]/div[2]/a[1]"
+    login_suc: "/html/body/div[2]/div[1]/div[1]/div[2]/a[1]"
